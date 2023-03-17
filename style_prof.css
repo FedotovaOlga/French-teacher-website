@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	color: darkred;
+	}
+.lavande {
+	padding: 100px;
+	background: url("images/lavande.jpg") fixed center / cover;
+	}
+	h1 {
+	color: white;
+	text-align: center;
+	}
+
+/*propriété de background-size seulement APRES background-position, et séparé par / !!!*/
