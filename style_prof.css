@@ -12,21 +12,36 @@ h2 {
 	font-size: 3rem;
 }
 
+.carousel img {
+	margin: auto;
+	width: 30%;
+    height: 100%;
+}
+
+
+
 p {
 	font-size: 2rem;
 }
 
 a {
 	color: rgb(235, 217, 246);
+	
 }
 
+a:hover {
+	color: rgb(253, 190, 65);
 
-.lavande {
-	padding: 100px;
+}
+
+.hero {
+	display: flex;
+	height: 40vh;
 	background: url("images/lavande.jpg") fixed center / cover;
 }
 
 h1 {
+	margin: auto;
 	color: white;
 	text-align: center;
 }
